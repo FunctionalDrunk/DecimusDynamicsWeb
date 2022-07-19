@@ -1,7 +1,6 @@
 <template id="top">
 <div class="relative w-full">
   <header>
-    <!-- <div class="bg-[url('~/images/decimus-whitepaper-2-bg4.jpg')] bg-no-repeat bg-[length:1800px_1800px] bg-[position:-1000px_-280px] sm:bg-[length:100%_100%] sm:bg-[position:0px_0px]"> -->
     <div class="bg-[url('/images/background-image-top.jpg')] bg-no-repeat bg-[length:1800px_1800px] bg-[position:-1000px_-280px] sm:bg-[length:100%_100%] sm:bg-[position:0px_0px]">
       <div class="flex flex-col items-center">
 
