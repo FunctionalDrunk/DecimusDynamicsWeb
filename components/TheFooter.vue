@@ -1,5 +1,5 @@
 <template>
-  <section class=" flex justify-center w-full bg-[url('~/images/background-image-bottom.jpg')] bg-no-repeat bg-cover">
+  <section class=" flex justify-center w-full bg-[url('/images/background-image-bottom.jpg')] bg-no-repeat bg-cover">
     <div class="max-w-7xl">
 
       

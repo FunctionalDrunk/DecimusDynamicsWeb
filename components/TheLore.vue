@@ -1,6 +1,6 @@
 <template>
   <section>
-      <div class="container flex justify-center px-10 py-24 lg:mt-20 bg-[url('~/images/background-lore.png')] bg-no-repeat bg-top 
+      <div class="container flex justify-center px-10 py-24 lg:mt-20 bg-[url('/images/background-lore.png')] bg-no-repeat bg-top 
         bg-[length:380px_720px] 
         sm:bg-[length:700px_483px] 
         md:bg-[length:900px_483px] 

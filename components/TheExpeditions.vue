@@ -1,5 +1,5 @@
 <template>
-    <section class=" flex flex-col items-center w-full bg-[url('~/images/expedition-background.jpg')] bg-no-repeat bg-cover bg-[position:0px_0px]">
+    <section class=" flex flex-col items-center w-full bg-[url('/images/expedition-background.jpg')] bg-no-repeat bg-cover bg-[position:0px_0px]">
         <div class="max-w-[1376px] flex flex-col px-8 py-8  items-center text-white font-oswald">
             <h1 class="text-4xl lg:text-6xl font-bold uppercase">Expeditions</h1>
             <img src="/images/underline-.png" alt="" class=" w-44 lg:w-80 my-6">

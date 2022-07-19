@@ -1,6 +1,6 @@
 <template>
 <section id="roadmap" class="roadmap-border relative">
-  <div class="w-full bg-[url('~/images/background-image-roadmap.jpg')] bg-no-repeat">
+  <div class="w-full bg-[url('/images/background-image-roadmap.jpg')] bg-no-repeat">
     <div class="flex flex-col px-8 py-8 items-center text-white font-oswald">
       <h1 class="text-4xl lg:text-6xl my-7 font-bold uppercase">Roadmap</h1>
       
@@ -8,7 +8,7 @@
         text-xl xl:text-3xl leading-normal xl:leading-relaxed py-10
       ">
 
-        <div class="flex flex-col px-8 py-5 xl:py-9 w-[300px] xl:w-[420px] h-[387px] xl:h-[540px] lg:w-72 bg-[url('~/images/roadmap-card.png')] bg-contain bg-no-repeat">
+        <div class="flex flex-col px-8 py-5 xl:py-9 w-[300px] xl:w-[420px] h-[387px] xl:h-[540px] lg:w-72 bg-[url('/images/roadmap-card.png')] bg-contain bg-no-repeat">
           <h2 class="pt-8 pb-6 text-3xl xl:text-5xl font-bold">Phase 1</h2>
           <div class="flex mb-4 items-center">
               <div class="h-6 xl:h-8 w-6 xl:w-8 mr-3 xl:mr-4">
@@ -30,7 +30,7 @@
           </div>
         </div>
         
-        <div class="flex flex-col px-8 py-5 xl:py-9 w-[300px] xl:w-[420px] h-[387px] xl:h-[540px] lg:w-72 bg-[url('~/images/roadmap-card.png')] bg-contain bg-no-repeat">
+        <div class="flex flex-col px-8 py-5 xl:py-9 w-[300px] xl:w-[420px] h-[387px] xl:h-[540px] lg:w-72 bg-[url('/images/roadmap-card.png')] bg-contain bg-no-repeat">
           <h2 class="pt-8 pb-6 text-3xl xl:text-5xl font-bold">Phase 2</h2>
           <div class="flex mb-4 items-center">
               <div class="h-6 xl:h-8 w-6 xl:w-8 mr-3 xl:mr-4">
@@ -64,7 +64,7 @@
           </div>
         </div>
 
-        <div class="flex flex-col px-8 py-5 xl:py-9 w-[300px] xl:w-[420px] h-[387px] xl:h-[540px] lg:w-72 bg-[url('~/images/roadmap-card.png')] bg-contain bg-no-repeat">
+        <div class="flex flex-col px-8 py-5 xl:py-9 w-[300px] xl:w-[420px] h-[387px] xl:h-[540px] lg:w-72 bg-[url('/images/roadmap-card.png')] bg-contain bg-no-repeat">
           <h2 class="pt-8 pb-6 text-3xl xl:text-5xl font-bold">Future</h2>
           <div class="flex mb-4 items-center">
               <div class="h-6 xl:h-8 w-6 xl:w-8 mr-3 xl:mr-4">

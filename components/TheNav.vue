@@ -1,7 +1,7 @@
 <template>
     
 
-        <div class="hidden md:flex h-44 md:h-52 xl:h-[246px] 2xl:w-[1740px] bg-[url('~/images/background-navigation.png')] bg-contain bg-no-repeat">
+        <div class="hidden md:flex h-44 md:h-52 xl:h-[246px] 2xl:w-[1740px] bg-[url('/images/background-navigation.png')] bg-contain bg-no-repeat">
 
             <div class="flex w-full px-28 h-44 lg:h-36 xl:h-56">
 
