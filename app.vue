@@ -13,3 +13,24 @@
     </div>
   </body> 
 </template>
+
+<script>
+  export default {
+    head() {
+      return {
+        title: 'Decimus Dynamics',
+        meta: [
+          {
+            hid: 'description',
+            name: 'description',
+            content: '4000 Dystopian robots... piloted by raccoons'
+          }
+        ]
+      }
+    }
+  }
+</script>
+
+<style>
+
+</style>
